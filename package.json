@@ -1,0 +1,30 @@
+{
+  "name": "paperdi",
+  "version": "0.1.0",
+  "description": "Paper DI brings simple class which may help you to inject or select objects!",
+  "main": "injection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArkeologeN/paperdi.git"
+  },
+  "keywords": [
+    "paperdi",
+    "dependency",
+    "injection",
+    "di",
+    "objects",
+    "helper"
+  ],
+  "author": "Hamza Waqas <hamzawaqas.programmer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArkeologeN/paperdi/issues"
+  },
+  "homepage": "https://github.com/ArkeologeN/paperdi",
+  "dependencies": {
+    "klass": "^1.4.0"
+  }
+}
